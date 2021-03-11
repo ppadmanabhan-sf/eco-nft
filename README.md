@@ -1,11 +1,11 @@
-# A guide to ecofriendly CryptoArt (NFTs)
+# A guide to ecofriendly NFTs
 
 ## Introduction
-*This article is not a comprehensive “CryptoArt for beginners”. It’s more of a very brief (as possible) **first step** towards a guide for the adventurous artist who wants to create and sell CryptoArtworks (or NFTs) on the blockchain - **on sustainable platforms**. Since the field is moving so rapidly, the information below is likely to go out of date very quickly. We will try to keep it up to date via [pull-requests](https://github.com/memo/eco-nft/pulls) and [issues](https://github.com/memo/eco-nft/issues). And I **hope the platforms themselves will add relevant information, “Statement of Values”, and roadmaps to their own site**.*
+*This article is not a comprehensive “NFT for beginners”. It’s more of a very brief (as possible) **first step** towards a guide for the adventurous artist who wants to create and sell CryptoArtworks (or NFTs) on the blockchain - **on sustainable platforms**. Since the field is moving so rapidly, the information below is likely to go out of date very quickly. We will try to keep it up to date via [pull-requests](https://github.com/memo/eco-nft/pulls) and [issues](https://github.com/memo/eco-nft/issues). And I **hope the platforms themselves will add relevant information, “Statement of Values”, and roadmaps to their own site**.*
 
 ---
 
-The CryptoArt NFT Market (i.e. selling digital art on the blockchain) is worth at least $150M - and this excludes some of the largest marketplaces like [opensea.io](http://opensea.io), (and this figure is quite heavily skewed of course, with the top artists earning the most [[1](https://cryptoart.io/artists)]).
+The NFT Market (i.e. selling digital art on the blockchain) is worth at least $150M - and this excludes some of the largest marketplaces like [opensea.io](http://opensea.io), (and this figure is quite heavily skewed of course, with the top artists earning the most [[1](https://cryptoart.io/artists)]).
 
 Selling work on a blockchain can be a technically challenging task. For this reason, many platforms and websites have emerged, aiming to make this process as seamless and easy as possible for artists. Unfortunately, currently many of these websites are based on the Ethereum blockchain, which is very inefficient and ecologically costly by design. E.g. selling just a single-edition artwork on Ethereum has a carbon footprint starting at around 100 KgCO2, which is equivalent to a 1 hour flight (and depending on the platform, can reach a long-haul flight) [[2](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053)]. Selling an edition of 100 works has a carbon footprint of over 10 tonnes CO2, which is more than the per capita annual footprint of someone in the EU - including all emissions from industry and trade [[3](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#co2-embedded-in-trade)].
 
@@ -15,7 +15,7 @@ But there are more sustainable routes emerging. As the CryptoArt NFT market is e
 **We are also hoping the platforms themselves will be more transparent on the matter, and we can eventually retire this document**. However, at the time of writing, not a single platform has publicly acknowledged the issue on their website. When they do, the relevant links will be included below.
 
 
-**What would be great to see from CryptoArt / NFT platforms regarding sustainability**:
+**What would be great to see from NFT platforms regarding sustainability**:
 - A statement of values
 - A commitment to transparency, communication and guidance for CryptoArtists
 - A roadmap (other than “We hope ETH2 will resolve the issue when it’s released in a year or two" - e.g. alternate chains, side chains, lazy minting, layer 2 scaling which are currently in the process of supporting. Including bounties to PoS chains and wallets to create a solution to PoW etc)
@@ -46,6 +46,12 @@ Detailed description: https://opensea.io/blog/guides/non-fungible-tokens
 - **Wallet**: A blockchain analog for a bank account on the blockchain, which contains your cryptocurrency. Different cryptocurrencies often require different wallets. Without going into too much detail, usually this is a piece of software, hardware (or browser extension) which gives you a **private seed** - which is typically a bunch of random words, like “red fox banana submarine tutu” (this is like your password for the wallet, which you should keep safe and never share with anyone!) and a corresponding ‘hashed’ version (e.g. 17ah2k25djhsa7974) which is your public facing **wallet address** (like an IBAN, so it’s what you share with others to get paid or trade).
 - **Consensus Algorithm**: The algorithm that underlies the blockchain. Details of this are irrelevant for this guide, except to say that Proof-of-Work (PoW) is the consensus algorithm that is hundreds of times more inefficient than the other ones (deliberately so), and is also the one which is the most common today unfortunately. For familiarity, here are some other consensus algorithms (how they work is not important for now): Proof-of-Work (PoW), Proof-of-Stake (PoS), Delegated Proof-of-Stake (DPoS), Proof-of-Authority (PoA), Byzantine Fault Tolerance (BFT), Delegated Byzantine Fault Tolerance (dBFT), etc.
 
+---
+## What is NFT?
+Non-fungible tokens (NFTs) are unique, digital items with blockchain-managed ownership. Examples include collectibles, game items, digital art, event tickets, domain names, and even ownership records for physical assets.
+- **Indivisible:** NFTs cannot be divided into smaller denominations like bitcoins. They exist exclusively as a whole item. 
+- **Indestructible:** Because all NFT data is stored on the blockchain via smart contracts, each token cannot be destroyed, removed or replicated. Ownership of these tokens is also immutable, which means gamers and collectors actually possess their NFTs, not the companies that create them. This contrasts with buying things like music from the iTunes store where users don’t actually own what they’re buying, they just purchase the license to listen to the music. 
+- **Verifiable:** Another benefit of storing historical ownership data on the blockchain is that items such as digital artwork can be traced back to the original creator, which allows pieces to be authenticated without the need for third-party verification.
 
 ---
 ## Ways to make it better
@@ -248,18 +254,6 @@ There’s not much an individual CryptoArtist can do with the following informat
 
 ---
 
-## Acknowledgements & Contributions
-The information in this document is a collective effort from many people including:
-
-Memo Akten, Primavera De Filippi, Joanie Lemercier, Addie Wagenknecht, Mat Dryhurst, Sutu_eats_flies, everybody in the ["eco-NFTs" discord [5]](https://discord.com/invite/X2BefZVtWh) 
-and many more.
-(Also see https://github.com/memo/eco-nft/graphs/contributors )
-
-Please submit a [pull-request](https://github.com/memo/eco-nft/pulls) or [issue](https://github.com/memo/eco-nft/issues) if you would like to make any changes or have any comments.
-
-Pull requests:
-- Small and atomic (i.e. each pull request should be a change to one location, and in a separate branch if need be)
-- Please don’t send pull-requests which change whitespace or line-endings etc
 
 
 ---
