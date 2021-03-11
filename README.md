@@ -134,6 +134,14 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 
 
 ### Not eco-friendly
+#### Mintable - open marketplace for all kinds of digital collection
+- https://mintable.app
+- Blockchain: **Ethereum** (ETH)
+- Open to everybody
+- NFT Factory: allows users to create their own contracts
+- No gas fees (lazy minting)
+- Super easy
+
 #### OpenSea - open marketplace for all kinds of digital collectibles
 - https://opensea.io/
 - Blockchain: **Ethereum** (ETH), but **Tezos** (XTZ) support coming soon [[link](https://opensea.io/blog/announcements/tezos-nfts-are-coming-to-opensea/)]
