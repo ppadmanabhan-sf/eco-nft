@@ -138,6 +138,11 @@ Hopefully if there is enough demand for **sustainable and transparent platforms*
 - Blockchain: **Cardano** (ADA)
 - *Under development*
 
+#### Dapper - inclusive marketplace for digital art
+- https://www.dapperlabs.com/
+- One of the biggest non ethereum marketplace. Made big waves because of NBA
+- Blockchain: **Flow** 
+- *Deployed*
 
 ### Not eco-friendly
 #### Mintable - open marketplace for all kinds of digital collection
@@ -251,10 +256,6 @@ There’s not much an individual CryptoArtist can do with the following informat
 - This becomes potentially even more risky (or potentially more rewarding) with cryptocurrencies that have a much smaller market cap (e.g. NEAR, XTZ, AVAX etc), which could die and drop to zero (or go to the moon) in a few weeks.
 - Please act responsibly. Seek financial advice if need be (preferably not from YouTube, TikTok, Elon Musk or Chamath Palihapitiya).
 - The smaller blockchains are likely to have fewer collectors. So expect smaller sales on these platforms. (Though as more people start to use these blockchains for NFTs the prices will likely rise with demand).
-
----
-
-
 
 ---
 ## References
